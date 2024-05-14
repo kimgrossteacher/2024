@@ -10,6 +10,7 @@
 public class helloworld {
     public static void main (String[] args){
         System.out.println("hello world how you are today");// printing out hello world for all the world to see. 
+        System.out.println("goodbye");
     }
 
 }
